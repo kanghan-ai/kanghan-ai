@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm KangHan (Fizzle.k)</h1>
-  <h3>🍞 "The Bread is Ready" (啊面包烤好了)</h3>
-  
+  <h1>👋 Hi, I'm KangHan</h1>
   <br/>
 
   <p>
