@@ -3,14 +3,14 @@
   <br/>
 
   <p>
-    <b>🤖 AI Product Manager Candidate</b> &nbsp;|&nbsp; 
+    <b>🤖 AI Product Manager</b> &nbsp;|&nbsp; 
     <b>💻 CS Senior @ 2026</b> &nbsp;|&nbsp; 
-    <b>❤️ Building with Heart</b>
+    <b>❤️ Content Creator</b>
   </p>
   
   <br/>
 
-  <a href="https://www.xiaohongshu.com/user/profile/你的小红书ID">
+  <a href="https://www.xiaohongshu.com/user/profile/5b40d831e8ac2b17ae9c39c2">
     <img src="https://img.shields.io/badge/Xiaohongshu-%E5%95%8A%E9%9D%A2%E5%8C%85%E7%83%A4%E5%A5%BD%E4%BA%86-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
   </a>
   <a href="https://你的个人网站.com">
