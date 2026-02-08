@@ -26,14 +26,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me：
 
 * 🎓 **Background:** Senior Computer Science Student (Graduating 2026)
 * 🔭 **Focus:** AI Product Management (AI-PM) & Prompt Engineering
 * 🛠️ **Current Project:** Building an **AI Content Formatter** for creators
 * 💡 **Philosophy:** Combining engineering logic with product thinking
 
-### 🛠️ Tech Stack
+###  Tech Stack：
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
