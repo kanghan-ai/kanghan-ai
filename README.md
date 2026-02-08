@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F39C12&center=true&vCenter=true&width=435&lines=Hi,+I'm+KangHan+👋;AI+Product+Manager;CS+Senior+%40+2026;Building+with+Heart+❤️" alt="Typing SVG" />
-</div>
-
-<h3 align="center">🍞 "The Bread is Ready" (啊面包烤好了)</h3>
-
-<div align="center">
+  <h1>👋 Hi, I'm KangHan (Fizzle.k)</h1>
+  <h3>🍞 "The Bread is Ready" (啊面包烤好了)</h3>
   
+  <br/>
+
+  <p>
+    <b>🤖 AI Product Manager Candidate</b> &nbsp;|&nbsp; 
+    <b>💻 CS Senior @ 2026</b> &nbsp;|&nbsp; 
+    <b>❤️ Building with Heart</b>
+  </p>
+  
+  <br/>
+
   <a href="https://www.xiaohongshu.com/user/profile/你的小红书ID">
     <img src="https://img.shields.io/badge/Xiaohongshu-%E5%95%8A%E9%9D%A2%E5%8C%85%E7%83%A4%E5%A5%BD%E4%BA%86-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
   </a>
@@ -18,26 +24,30 @@
 
 </div>
 
+<br/>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Identity:** Senior CS Student @ Class of 2026.
-- 🔭 **Focus:** AI Product Management & Prompt Engineering.
-- 🛠️ **Building:** Working on an **AI Content Formatter** for creators.
-- 💡 **Motto:** Combining code logic with product thinking.
+* 🎓 **Background:** Senior Computer Science Student (Graduating 2026)
+* 🔭 **Focus:** AI Product Management (AI-PM) & Prompt Engineering
+* 🛠️ **Current Project:** Building an **AI Content Formatter** for creators
+* 💡 **Philosophy:** Combining engineering logic with product thinking
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-	<img src="https://skillicons.dev/icons?i=python,pytorch,nextjs,react,ts,tailwind,figma,notion,git,docker" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-<br/>
-
-### 📈 GitHub Stats
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanghan-ai&show_icons=true&hide_border=true&title_color=F39C12&text_color=5D4037&icon_color=F39C12&bg_color=FFFBEB" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghan-ai&layout=compact&hide_border=true&title_color=F39C12&text_color=5D4037&icon_color=F39C12&bg_color=FFFBEB" height="150" alt="languages graph" />
 </div>
