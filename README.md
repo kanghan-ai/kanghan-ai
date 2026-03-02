@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm KangHan (Fizzle.k)</h1>
-  <br/>
 
   <p>
     <b>🤖 AI Product Manager</b> &nbsp;|&nbsp; 
