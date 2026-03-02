@@ -30,15 +30,6 @@
 
 ---
 
-### 💡 About Me
-
-* 🎓 **Background:** Senior Computer Science Student (Graduating 2026)
-* 💼 **Experience:** Ex-Intern @ **Moonshot AI** (月之暗面) & **Zhipu AI** (智谱华章)
-* 🔭 **Focus:** AI Product Management (AI-PM), Prompt Engineering & Data Visualization
-* 🛠️ **Current Projects:** * Building **Ctrl.P**, a personal website to manage and showcase AI prompts.
-  * Developing an **AI Content Formatter** for creators.
-* 🌟 **Philosophy:** Championing "AI for everyone的科技平权" — combining engineering logic with product thinking to build accessible tools.
-
 ### 🛠 Tech Stack
 
 <p align="left">
